@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Untuk: Fina Amelina</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            background-color: #ffebcd;
+            margin: 40px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #ff69b4;
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .heart {
+            color: #ff69b4;
+            font-size: 1.2em;
+            text-align: center;
+        }
+        .message {
+            font-style: italic;
+            margin-top: 20px;
+        }
+        .signature {
+            text-align: right;
+            margin-top: 30px;
+        }
+        .emoji {
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Untuk: Pinaa Sayangg</h1>
+        <p><strong>Pesan gua:</strong></p>
+        <p>"Hi sayangg <span class="emoji">😊❤️</span>, gua ngerti kalo LDR bikin kita sering salah paham. Gua bener-bener minta maaf kalo gua udah bikin lu kesel. Gua nggak mau lu ngerasa sedih atau marah karena gua. Walaupun kita jauh, hati gua tuh selalu deket sama lu <span class="emoji">🥺💞</span>."</p>
+        <p>Yuk, kita selesain ini bareng-bareng. Gua janji bakal lebih perhatian dan selalu dengerin lu. Gimana kalo nanti kapanpun lu siap kita call buat ngobrol dan bercanda? Gua kangen denger suara indah lu itu hehe <span class="emoji">😂🎶</span>. Maafin gua ya sayang. Gua nggak mau kita berantem gini. Lu penting banget buat gua <span class="emoji">🌟</span>.</p>
+        <p>Gua tau ini semua nggak gampang, tapi gua percaya kita bisa ngatasin ini bareng. Setiap kali kita ngobrol, gua ngerasa lebih dekat sama lu meski jarak memisahkan. Gua selalu mikirin lu dan nunggu saat kita bisa ketemu lagi dari sekian lama <span class="emoji">⏳💖</span>.</p>
+        <p>Gua bakal berusaha lebih baik biar kita bisa lebih bahagia. Tolong, jangan biarin masalah ini bikin kita jauh. Gua beneran sayang sama lu dan mau kita terus kuat ngejalanin LDR ini. Yuk, kita coba lebih sabar dan saling ngerti. Gua yakin kita bisa lewatin ini dan jadi lebih kuat. Please, maafin gua ya. Gua sayang banget sama lu dan gua gamau kehilangan lu <span class="emoji">😢💔</span>.</p>
+        <p class="signature">Peluk dari jauh, <br> Addin <span class="emoji">🤗💌</span></p>
+        <p class="heart">❤️❤️❤️</p>
+    </div>
+</body>
+</html>
